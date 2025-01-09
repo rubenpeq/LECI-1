@@ -1,5 +1,5 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/rubenpeq/LECI/blob/main/README.md)
-[![pt](https://img.shields.io/badge/lang-pt-green.svg)](https://github.com/rubenpeq/LECI/blob/main/README-PT.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/rubenpeq/LECI-1/blob/main/README.md)
+[![pt](https://img.shields.io/badge/lang-pt-green.svg)](https://github.com/rubenpeq/LECI-1/blob/main/README-PT.md)
 
 ### LECI 1º Ano
 
